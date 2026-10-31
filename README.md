@@ -1,5 +1,8 @@
 # Challenge Taranis Black — ONE AI for Business (G11)
 
+<img width="955" height="462" alt="image" src="https://github.com/user-attachments/assets/b54b607f-3cf6-4cef-921d-4567e93a7c61" />
+
+
 Repositório dedicado ao desenvolvimento do projeto prático de consultoria em Inteligência Artificial para a **Taranis Black** (empresa simulada de mobiliário corporativo e ergonomia de alta performance).
 
 ## 🎯 Escopo do Projeto
