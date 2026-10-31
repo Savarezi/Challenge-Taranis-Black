@@ -7,6 +7,7 @@ Repositório dedicado ao desenvolvimento do projeto prático de consultoria em I
 * **Rota 3 (Específica - RH e People Analytics):** Soluções voltadas para o combate ao turnover elevado e apoio ao desenvolvimento de lideranças por meio de simuladores de feedbacks difíceis baseados no modelo .
 
 ## 📁 Estrutura do Repositório
-* `/docs` — Relatórios executivos, artefatos de governança e documentações.
-* `/prompts` — Prompts estruturados para os agentes de IA e simuladores.
-* `/analytics` — Modelos e análises de People Analytics.
+* `/docs` — Relatórios executivos e documentação da Etapa 1.
+* `/prompts` — Instruções do agente principal e do subagente de People Analytics.
+* `/dataset` — Base de dados sintética de colaboradores e clima organizacional.
+* `/conversations` — Registros em PDF das 5 simulações práticas realizadas com o agente.
